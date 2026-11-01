@@ -25,7 +25,7 @@
 
 ## 下载
 
-到本仓库 **Releases** 下载 `TimeCapsule-win-x64.zip`，解压双击 `TimeCapsule.exe` 就能用——自包含包，目标机不用装 .NET。
+到本仓库 **Releases** 下载最新的 `TimeCapsule_v*_win-x64.zip`，解压后双击 `TimeCapsule.exe` 就能用——自包含包，目标机不用装 .NET。
 
 想自己编译见文末「源码」一节。
 
