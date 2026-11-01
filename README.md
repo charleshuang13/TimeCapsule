@@ -1,5 +1,8 @@
 # 时间胶囊 · 目录备份加密工具
 
+[![build](https://github.com/charleshuang13/TimeCapsule/actions/workflows/build.yml/badge.svg)](https://github.com/charleshuang13/TimeCapsule/actions/workflows/build.yml)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 盯住一个目录，文件一变就把「那一刻整个目录的样子」拍成一张快照，每个文件单独 AES-256 加密存起来。
 随时能翻回任意一个时间点，把当时的文件捞回来。
 
