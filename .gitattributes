@@ -1,0 +1,15 @@
+# 统一换行：仓库内按文本处理，检出时跟随平台（Windows 得到 CRLF）
+* text=auto
+
+*.cs      text diff=csharp
+*.csproj  text
+*.sln     text eol=crlf
+*.sh      text eol=lf
+*.py      text eol=lf
+*.md      text
+*.json    text
+
+*.png     binary
+*.zip     binary
+*.exe     binary
+*.dll     binary
